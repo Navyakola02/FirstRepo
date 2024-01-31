@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi I am Navya.
 I am Working as Associate Developer in Galaxe e solutions
+=======
+Hi I am Navya.I am Working as Associate Developer in Galaxe e solutions
+I am kola
+>>>>>>> f89f54f81019632f8a43b3bcf34d5ad09d5a9855
